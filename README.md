@@ -6,3 +6,5 @@ Frameworks and Libs Used:
 - Turbine (Test cases)
 - MVVM Pattern
 - Hilt
+
+![Alt text](/block_diagram.png)
