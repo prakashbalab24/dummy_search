@@ -7,4 +7,8 @@ Frameworks and Libs Used:
 - MVVM Pattern
 - Hilt
 
+  
 ![Alt text](/block_diagram.png)
+
+Screenshot:
+![Alt text](/search.png)
